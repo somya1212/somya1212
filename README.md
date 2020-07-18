@@ -1,7 +1,7 @@
 
   <img align="center" alt="GIF" src="https://media3.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" />
   
-## I'm Somya! :wave:
+## I'm Somya! :woman:
 
 Welcome to my Github Profile.🤩
 
