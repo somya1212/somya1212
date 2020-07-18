@@ -1,6 +1,7 @@
 
   <img align="center" alt="GIF" src="https://media3.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" />
-### Hi, I'm Somya!👋🏻
+  
+## I'm Somya!
 
 Welcome to my Github Profile.🤩
 
