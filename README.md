@@ -12,7 +12,7 @@
 
 
 
-![Somya's github](https://github-readme-stats.vercel.app/api?username=somya1212&show_icons=true&hide_border=true)
+![Somya's github]<img src="https://github-readme-stats.vercel.app/api?username=somya1212&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 - Connect with me on [![LinkedIn](https://img.shields.io/static/v1.svg?label=Connect&message=@somyasbharti&color=grey&logo=linkedin&labelColor=blue&style=social)](https://www.linkedin.com/in/somyasbharti/)
 
