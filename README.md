@@ -1,5 +1,5 @@
 
-https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif
+http://www.codeit.kr/
 
 ## I'm Somya! :woman:
 
