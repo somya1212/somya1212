@@ -1,6 +1,4 @@
 
-http://www.codeit.kr/
-
 ## I'm Somya! :woman:
 
 ### Welcome to my Github Profile.🤩
