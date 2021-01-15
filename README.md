@@ -1,6 +1,8 @@
 
 ## I'm Somya! :woman:
 
+![](https://komarev.com/ghpvc/?username=somya1212&color=79b8ff)
+
 ### Welcome to my Github Profile.🤩
 
 - 🎓 I'm a final year undergraduate student passionate about *technology* and a creative *problem solving* enthusiast.🚀
@@ -16,3 +18,5 @@
 
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/somya1212/)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/somya1212/)
+
+
