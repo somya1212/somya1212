@@ -14,7 +14,21 @@
 
 ![Somya's github](https://github-readme-stats.vercel.app/api?username=somya1212&show_icons=true&hide_border=true)
 
-- Connect with me on [![LinkedIn](https://img.shields.io/static/v1.svg?label=Connect&message=@somyasbharti&color=grey&logo=linkedin&labelColor=blue&style=social)](https://www.linkedin.com/in/somyasbharti/)
+- Connect with me on 
+<table>
+   <tr>
+      <td>
+         <a href="https://www.linkedin.com/in/somyasbharti/">
+            <img align="left" alt="somyasbharti | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+         </a>
+      </td>
+      <td>
+         <a href="https://twitter.com/somya1212_">
+            <img align="left" alt="somya1212_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+         </a>
+      </td>
+   </tr>
+</table>
 
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/somya1212/)  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/somya1212/)
