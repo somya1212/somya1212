@@ -12,8 +12,6 @@
 
 
 
-![Somya's github](https://github-readme-stats.vercel.app/api?username=somya1212&show_icons=true&hide_border=true)
-
 - Connect with me on 
 <table>
    <tr>
