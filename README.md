@@ -3,6 +3,10 @@
 
 ![](https://komarev.com/ghpvc/?username=somya1212&color=79b8ff)
 
+<div align="center">
+<img src="https://github.com/somya1212/somya1212/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
+</div>
+
 ## Hello, folks! :woman:
 I am from India and currently working as a Software Engineer Intern at Dell Technologies, Bangalore. I am passionate about learning and sharing knowledge as much as I can.
 I'm interested in **Machine Learning** and would like to explore more in this field. I look forward to more and more *Open Source Project Contributions*. 
