@@ -1,18 +1,18 @@
 
-## I'm Somya! :woman:
+## Hello, folks! :woman:
 
 ![](https://komarev.com/ghpvc/?username=somya1212&color=79b8ff)
 
 ### Welcome to my Github Profile.🤩
 
-- 🎓 I'm a final year undergraduate student passionate about *technology* and a creative *problem solving* enthusiast.🚀
+- 🎓 I'm a Software Engineer Intern at Dell Technologies.🚀
 - 💻 I'm learning **Data Analysis** and **Machine Learning** and would like to explore more in this field.
 - :octocat: I look forward to more and more *Open Source Project Contributions*. 
 - ✨I'm also fond of **UX Research and Designing** and would love to work with a team to solve real- world problems.
 
 
 
-![Somya's github](https://github-readme-stats.vercel.app/api?username=somya1212&show_icons=true&hide_border=true)
+[![Somya's GitHub stats](https://github-readme-stats.vercel.app/api?username=somya1212)](https://github.com/somya1212/github-readme-stats)
 
 - Connect with me on 
 <table>
