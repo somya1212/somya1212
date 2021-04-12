@@ -1,14 +1,12 @@
 
-## Hello, folks! :woman:
+
 
 ![](https://komarev.com/ghpvc/?username=somya1212&color=79b8ff)
 
-### Welcome to my Github Profile.🤩
+## Hello, folks! :woman:
+I am from India and currently working as a Software Engineer Intern at Dell Technologies, Bangalore. I am passionate about learning and sharing knowledge as much as I can.
+I'm interested in **Machine Learning** and would like to explore more in this field. I look forward to more and more *Open Source Project Contributions*. 
 
-- 🎓 I'm a Software Engineer Intern at Dell Technologies.🚀
-- 💻 I'm learning **Data Analysis** and **Machine Learning** and would like to explore more in this field.
-- :octocat: I look forward to more and more *Open Source Project Contributions*. 
-- ✨I'm also fond of **UX Research and Designing** and would love to work with a team to solve real- world problems.
 
 
 
