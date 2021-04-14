@@ -11,7 +11,10 @@ I'm interested in **Machine Learning** and would like to explore more in this fi
 
 
 
-[![Somya's GitHub stats](https://github-readme-stats.vercel.app/api?username=somya1212)](https://github.com/somya1212/github-readme-stats)
+
+
+|<img src="https://github-readme-stats.vercel.app/api?username=somya1212&&show_icons=true&count_private=true"/>|<img src="https://github-readme-streak-stats.herokuapp.com/?user=somya1212"/>|
+|---|---|
 
 - Connect with me on 
 <table>
