@@ -5,7 +5,7 @@
 
 
 ## Hello, folks! :woman:
-I am from India and currently working as a Software Engineer Intern at Dell Technologies, Bangalore. I am passionate about learning and sharing knowledge as much as I can.
+I am from India and currently working as a Member of Technical Staff at VMware, Bangalore. I am passionate about learning and sharing knowledge as much as I can.
 I'm interested in **Machine Learning** and would like to explore more in this field. I look forward to more and more *Open Source Project Contributions*. 
 
 
