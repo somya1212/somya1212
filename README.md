@@ -5,8 +5,7 @@
 
 
 ## Hello, folks! :woman:
-I am from India and currently working as a Member of Technical Staff at VMware, Bangalore. I am passionate about learning and sharing knowledge as much as I can.
-I'm interested in **Machine Learning** and would like to explore more in this field. I look forward to more and more *Open Source Project Contributions*. 
+I'm a CSE graduate of Vellore Institute of Technology, Vellore, India. I am a detail-oriented person and I keep my goals and tasks organized to maintain productivity. Previously I have done my internship at Dell Technologies where I worked with the Dell Hybrid Client team. Currently, I'm working at VMware, Bangalore, India as a Member of Technical Staff.
 
 
 
